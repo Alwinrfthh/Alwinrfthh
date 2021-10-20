@@ -5,7 +5,7 @@
 <h3 align="center">Just for Fun</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alwinrfthh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kyuurazzz" height="30" width="40" /></a>
+<a href="https://twitter.com/alwinrfthh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alwinrfthh" height="30" width="40" /></a>
   <a href="https://fb.com/kafire.provokator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bilal al hafidz" height="30" width="40" /></a>
   <a href="https://instagram.com/Alwinrfthh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bilalhafidz_" height="30" width="40" /></a>
   </p> 
